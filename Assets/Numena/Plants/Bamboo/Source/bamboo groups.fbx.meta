@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 9225ba26a4955f3499c38f0b9db267ac
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bamboo Forest Group
+    100002: //RootNode
+    100004: Bamboo Large Group
+    100006: Bamboo Medium Group
+    100008: Bamboo Small Group
+    100010: Bamboo Tiny Group
+    400000: Bamboo Forest Group
+    400002: //RootNode
+    400004: Bamboo Large Group
+    400006: Bamboo Medium Group
+    400008: Bamboo Small Group
+    400010: Bamboo Tiny Group
+    2100000: Bamboo
+    2100002: Bamboo Leaves
+    2300000: Bamboo Forest Group
+    2300002: Bamboo Large Group
+    2300004: Bamboo Medium Group
+    2300006: Bamboo Small Group
+    2300008: Bamboo Tiny Group
+    3300000: Bamboo Forest Group
+    3300002: Bamboo Large Group
+    3300004: Bamboo Medium Group
+    3300006: Bamboo Small Group
+    3300008: Bamboo Tiny Group
+    4300000: Bamboo Forest Group
+    4300002: Bamboo Large Group
+    4300004: Bamboo Small Group
+    4300006: Bamboo Tiny Group
+    4300008: Bamboo Medium Group
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bamboo
+    second: {fileID: 2100000, guid: 8eb2923edb2355b4d870455b9aea30d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bamboo Leaves
+    second: {fileID: 2100000, guid: 0899759a8eedb6d4592031ac434468c2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
