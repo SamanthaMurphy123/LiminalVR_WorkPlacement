@@ -5,22 +5,22 @@ using System.Collections;
 [System.Serializable]
 public class Subtitle
 {
-    public TextMeshProUGUI textBox; 
-    public float startTime; 
-    public float endTime; 
+    public TextMeshProUGUI textBox;
+    public float startTime;
+    public float endTime;
 }
 
 [System.Serializable]
 public class Stage
 {
-    public string stageName; 
-    public Subtitle[] subtitles; 
+    public string stageName;
+    public Subtitle[] subtitles;
 }
 
 public class SubtitleManager : MonoBehaviour
 {
-    public Stage[] stages; 
-    public Transform target; 
+    public Stage[] stages;
+    public Transform target;
 
     void Start()
     {
