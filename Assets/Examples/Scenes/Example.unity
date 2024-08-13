@@ -3036,11 +3036,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
-    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_WL_L (7)
-      objectReference: {fileID: 0}
     - target: {fileID: 4476465268557038390, guid: 5afa42daa9387bb44ab902415c098fa8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3110,6 +3105,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.7759625
+      objectReference: {fileID: 0}
+    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_WL_L (7)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5afa42daa9387bb44ab902415c098fa8, type: 3}
@@ -3911,11 +3911,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
-    - target: {fileID: 639011339711436196, guid: d5b6e58fffd5cd84f826bd20350606a0,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_LT_S (4)
-      objectReference: {fileID: 0}
     - target: {fileID: 5866113527097165444, guid: d5b6e58fffd5cd84f826bd20350606a0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3985,6 +3980,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.55893
+      objectReference: {fileID: 0}
+    - target: {fileID: 639011339711436196, guid: d5b6e58fffd5cd84f826bd20350606a0,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_LT_S (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d5b6e58fffd5cd84f826bd20350606a0, type: 3}
@@ -4356,11 +4356,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
-    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_WL_L (3)
-      objectReference: {fileID: 0}
     - target: {fileID: 4476465268557038390, guid: 5afa42daa9387bb44ab902415c098fa8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4430,6 +4425,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.3498119
+      objectReference: {fileID: 0}
+    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_WL_L (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5afa42daa9387bb44ab902415c098fa8, type: 3}
@@ -7112,6 +7112,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
+    - target: {fileID: 3850066431909491623, guid: 558b8e352f24f2c49852eb1128464106,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_WOL_M (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 2326480443478317771, guid: 558b8e352f24f2c49852eb1128464106,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7181,11 +7186,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.55893
-      objectReference: {fileID: 0}
-    - target: {fileID: 3850066431909491623, guid: 558b8e352f24f2c49852eb1128464106,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_WOL_M (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 558b8e352f24f2c49852eb1128464106, type: 3}
@@ -9643,11 +9643,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
-    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_WL_L (6)
-      objectReference: {fileID: 0}
     - target: {fileID: 4476465268557038390, guid: 5afa42daa9387bb44ab902415c098fa8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9717,6 +9712,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.55893
+      objectReference: {fileID: 0}
+    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_WL_L (6)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5afa42daa9387bb44ab902415c098fa8, type: 3}
@@ -10746,11 +10746,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
-    - target: {fileID: 639011339711436196, guid: d5b6e58fffd5cd84f826bd20350606a0,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_LT_S (3)
-      objectReference: {fileID: 0}
     - target: {fileID: 5866113527097165444, guid: d5b6e58fffd5cd84f826bd20350606a0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10820,6 +10815,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.9300595
+      objectReference: {fileID: 0}
+    - target: {fileID: 639011339711436196, guid: d5b6e58fffd5cd84f826bd20350606a0,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_LT_S (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d5b6e58fffd5cd84f826bd20350606a0, type: 3}
@@ -11683,11 +11683,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
-    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_WL_L (4)
-      objectReference: {fileID: 0}
     - target: {fileID: 4476465268557038390, guid: 5afa42daa9387bb44ab902415c098fa8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11757,6 +11752,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.3498119
+      objectReference: {fileID: 0}
+    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_WL_L (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5afa42daa9387bb44ab902415c098fa8, type: 3}
@@ -13581,6 +13581,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
+    - target: {fileID: 3850066431909491623, guid: 558b8e352f24f2c49852eb1128464106,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_WOL_M
+      objectReference: {fileID: 0}
     - target: {fileID: 2326480443478317771, guid: 558b8e352f24f2c49852eb1128464106,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13650,11 +13655,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.7154304
-      objectReference: {fileID: 0}
-    - target: {fileID: 3850066431909491623, guid: 558b8e352f24f2c49852eb1128464106,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_WOL_M
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 558b8e352f24f2c49852eb1128464106, type: 3}
@@ -13824,11 +13824,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
-    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_WL_L (5)
-      objectReference: {fileID: 0}
     - target: {fileID: 4476465268557038390, guid: 5afa42daa9387bb44ab902415c098fa8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13898,6 +13893,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.55893
+      objectReference: {fileID: 0}
+    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_WL_L (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5afa42daa9387bb44ab902415c098fa8, type: 3}
@@ -16450,11 +16450,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
-    - target: {fileID: 639011339711436196, guid: d5b6e58fffd5cd84f826bd20350606a0,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_LT_S
-      objectReference: {fileID: 0}
     - target: {fileID: 5866113527097165444, guid: d5b6e58fffd5cd84f826bd20350606a0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16524,6 +16519,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.55893
+      objectReference: {fileID: 0}
+    - target: {fileID: 639011339711436196, guid: d5b6e58fffd5cd84f826bd20350606a0,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_LT_S
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d5b6e58fffd5cd84f826bd20350606a0, type: 3}
@@ -16860,11 +16860,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
-    - target: {fileID: 639011339711436196, guid: d5b6e58fffd5cd84f826bd20350606a0,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_LT_S (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 5866113527097165444, guid: d5b6e58fffd5cd84f826bd20350606a0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16934,6 +16929,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.55893
+      objectReference: {fileID: 0}
+    - target: {fileID: 639011339711436196, guid: d5b6e58fffd5cd84f826bd20350606a0,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_LT_S (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d5b6e58fffd5cd84f826bd20350606a0, type: 3}
@@ -17025,11 +17025,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
-    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_WL_L
-      objectReference: {fileID: 0}
     - target: {fileID: 4476465268557038390, guid: 5afa42daa9387bb44ab902415c098fa8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17099,6 +17094,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.55893
+      objectReference: {fileID: 0}
+    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_WL_L
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5afa42daa9387bb44ab902415c098fa8, type: 3}
@@ -18626,13 +18626,153 @@ PrefabInstance:
     - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 128.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -553.6299
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -226.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227603, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 128.35
       objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -553.6299
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -226.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985371, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227600, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_RenderMode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972453227600, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1208647982}
+    - target: {fileID: 3181256972983985368, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_RenderMode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181256972983985368, guid: 5bc3337009dc88841886dc93ca115c29,
+        type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1208647982}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5bc3337009dc88841886dc93ca115c29, type: 3}
 --- !u!114 &1416034642 stripped
@@ -25898,6 +26038,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
+    - target: {fileID: 5102681136107012582, guid: 8aa16b5bcc0e6ed4c869ce5bdb1c2fed,
+        type: 3}
+      propertyPath: m_Name
+      value: Asset_Pack_1_Rocks_Rock_3
+      objectReference: {fileID: 0}
     - target: {fileID: 5102681136107012581, guid: 8aa16b5bcc0e6ed4c869ce5bdb1c2fed,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -25967,11 +26112,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.55893
-      objectReference: {fileID: 0}
-    - target: {fileID: 5102681136107012582, guid: 8aa16b5bcc0e6ed4c869ce5bdb1c2fed,
-        type: 3}
-      propertyPath: m_Name
-      value: Asset_Pack_1_Rocks_Rock_3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8aa16b5bcc0e6ed4c869ce5bdb1c2fed, type: 3}
@@ -26558,7 +26698,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4725846764837456, guid: 511fe19e3452d7c43b2787569cbc0e11, type: 3}
       propertyPath: m_RootOrder
-      value: 24
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 4725846764837456, guid: 511fe19e3452d7c43b2787569cbc0e11, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -26735,11 +26875,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
-    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_WL_L (2)
-      objectReference: {fileID: 0}
     - target: {fileID: 4476465268557038390, guid: 5afa42daa9387bb44ab902415c098fa8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -26809,6 +26944,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.3498119
+      objectReference: {fileID: 0}
+    - target: {fileID: 772134020498195356, guid: 5afa42daa9387bb44ab902415c098fa8,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_WL_L (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5afa42daa9387bb44ab902415c098fa8, type: 3}
@@ -27129,7 +27269,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4244315120032260, guid: bf0584d188c55c34a8d08e899b0869fa, type: 3}
       propertyPath: m_RootOrder
-      value: 23
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 4244315120032260, guid: bf0584d188c55c34a8d08e899b0869fa, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -27211,11 +27351,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
-    - target: {fileID: 2161159987809551074, guid: ce2d44ab4a590394ab78ea9bf7720421,
-        type: 3}
-      propertyPath: m_Name
-      value: Asset_Pack_1_Rocks_Rock_2
-      objectReference: {fileID: 0}
     - target: {fileID: 2161159987809551075, guid: ce2d44ab4a590394ab78ea9bf7720421,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -27285,6 +27420,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.55893
+      objectReference: {fileID: 0}
+    - target: {fileID: 2161159987809551074, guid: ce2d44ab4a590394ab78ea9bf7720421,
+        type: 3}
+      propertyPath: m_Name
+      value: Asset_Pack_1_Rocks_Rock_2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ce2d44ab4a590394ab78ea9bf7720421, type: 3}
@@ -28196,6 +28336,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1543982770}
     m_Modifications:
+    - target: {fileID: 3850066431909491623, guid: 558b8e352f24f2c49852eb1128464106,
+        type: 3}
+      propertyPath: m_Name
+      value: Bamboo_WOL_M (2)
+      objectReference: {fileID: 0}
     - target: {fileID: 2326480443478317771, guid: 558b8e352f24f2c49852eb1128464106,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -28265,11 +28410,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.55893
-      objectReference: {fileID: 0}
-    - target: {fileID: 3850066431909491623, guid: 558b8e352f24f2c49852eb1128464106,
-        type: 3}
-      propertyPath: m_Name
-      value: Bamboo_WOL_M (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 558b8e352f24f2c49852eb1128464106, type: 3}
